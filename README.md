@@ -24,9 +24,7 @@ PS> Set-ExecutionPolicy RemoteSigned
 
 ## Additional informations
 
-Since this script can't customized which audio and subtitle tracks to remux in the output file you can use MKVcleaver to remove all unwanted tracks
-
-https://www.videohelp.com/software/MKVcleaver
+Since this script can't customize which audio and subtitle tracks to remux in the output file you can use MKVcleaver to remove all unwanted tracks https://www.videohelp.com/software/MKVcleaver
 
 If you've used a custom installation directory; specify the location of the makeMkvCon64.exe executable on line 2 of the script
 ```
