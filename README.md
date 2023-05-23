@@ -30,7 +30,7 @@ Recommended directory structure
 |--- dvd3
 |------ dvd3.iso
 ```
-While it supports ISO files in the root, it's not advised to do so since the filenames are all the same and will overwrite the files. It's recommended to put individual ISOs in a subfolder like explained above in the recommended directory structure. If you have thousands of ISOs in the same folder use a script to move them in a subfolder.
+While it supports ISO files in the root, it's not advised to do so since the filenames are all the same and will overwrite the previous files. It's recommended to put individual ISOs in a subfolder like explained above in the recommended directory structure. If you have thousands of ISOs in the same folder use a script to move them in a subfolder.
 ```
 |- root           (not recommended)
 |--- dvd4.iso     (not recommended)
