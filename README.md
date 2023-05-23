@@ -9,7 +9,7 @@ PowerShell script to automate batch DVD remuxing of VIDEO_TS folders and .ISO im
 PS> Set-ExecutionPolicy RemoteSigned
 ```
 4. Open the script and press the green Play button to run the script
-5. You'll be prompted to enter the path to the media root folder
+5. You'll be prompted to enter the path of your media root folder
 6. Wait until the processing is completed
 
 ## Features
