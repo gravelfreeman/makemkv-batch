@@ -1,6 +1,8 @@
 # makemkv-batch
 PowerShell script to automate batch DVD remuxing of VIDEO_TS folders and .ISO image files to MKV files.
 
+![image](https://github.com/gravelfreeman/makemkv-batch/assets/44218371/548e30ad-893e-49aa-bd33-2ea1fb7fa5fe)
+
 ## How to use the script
 1. Download the script from this GitHub repo
 2. Open Windows PowerShell with Run as Administrator to make sure you have the highest permission to make the policy changes
