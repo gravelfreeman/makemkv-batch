@@ -20,6 +20,11 @@ PS> Set-ExecutionPolicy RemoteSigned
 - Progress bar and results
 
 ## Additional informations
+
+If you've used a custom installation directory; specify the location of the makeMkvCon64.exe executable on line 2 of the script
+```
+$exeLoc = "C:\Program Files (x86)\MakeMKV\makeMkvCon64.exe"
+```
 Recommended directory structure
 ```
 |- root
